@@ -21,24 +21,24 @@ Sou apaixonado por tecnologia, design e desenvolvimento. Atualmente estou estuda
 # 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Giovanni-SantosC&theme=github_dark" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Giovanni-SantosC&theme=github_dark" alt="Languages"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=phillipivictorsanto-sketch&theme=github_dark" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phillipivictorsanto-sketch&theme=github_dark" alt="Languages"/>
 </div>
 
 <div align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Giovanni-SantosC&theme=github_dark" alt="Profile Details"/>
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phillipivictorsanto-sketch&theme=github_dark" alt="Profile Details"/>
 </div>
 
 ### 🔥 Sequência de Contribuições
 <div align="center"> 
-  <img src="https://streak-stats.demolab.com?user=Giovanni-SantosC&theme=tokyonight&hide_border=false" alt="GitHub Streak"/> 
+  <img src="https://streak-stats.demolab.com?user=phillipivictorsanto-sketch&theme=tokyonight&hide_border=false" alt="GitHub Streak"/> 
 </div>
 
 ---
 
 # 🌐 Redes Sociais
 
-<a href="https://github.com/Giovanni-SantosC" target="_blank">
+<a href="https://github.com/phillipivictorsanto-sketch" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
 </a>
 
@@ -50,11 +50,9 @@ Buscando evoluir constantemente na área de tecnologia, aprendendo novas ferrame
 
 ### 💻 Perfil Visitantes
 <div align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Giovanni-SantosC&color=blue&style=for-the-badge" alt="Visitantes"/> 
-</div>
+  <img src="https://komarev.com/ghpvc/?username=phillipivictorsanto-sketch&color=blue&style=for-the-badge" alt="Visitantes"/> </div>
 
 ---
 
 > ⚡ **Frase Motivacional**
 > “A tecnologia move o mundo.” – Steve Jobs
-> 
