@@ -1,78 +1,158 @@
-# 🚀 Tecnologias & Ferramentas
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Portfólio - GitHub</title>
+    <style>
+        body {
+            background-color: rgb(136, 0, 255);
+            color: white;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
 
-### 🎨 Design & Prototipação
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+        header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
 
-### 🛠️ Ferramentas & Versionamento
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        h1 {
+            color: rgb(17, 253, 0);
+            font-size: 2.5rem;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+        }
 
----
+        h2 {
+            color: rgb(255, 230, 0);
+        }
 
-# 👨‍💻 Sobre Mim
+        .subtitulo {
+            color: rgb(255, 255, 255);
+            font-size: 1.2rem;
+            font-weight: bold;
+            background-color: rgba(0, 0, 0, 0.3);
+            padding: 10px 20px;
+            border-radius: 20px;
+        }
 
-Olá! Meu nome é **Phillipi Santos** 🚀
-Sou estudante de programação apaixonado por tecnologia, design e desenvolvimento de software. Atualmente estou focado em dominar os fundamentos da web, versionamento de código e a criação de interfaces modernas e intuitivas utilizando o Figma.
+        .container {
+            max-width: 800px;
+            width: 100%;
+            background: rgba(255, 255, 255, 0.1);
+            padding: 30px;
+            border-radius: 15px;
+            backdrop-filter: blur(10px);
+            box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.3);
+        }
 
-### 📚 Atualmente Estudando e Praticando
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+        .tags {
+            display: flex;
+            gap: 10px;
+            justify-content: center;
+            flex-wrap: wrap;
+            margin-bottom: 30px;
+        }
 
----
+        .tag {
+            background-color: rgb(17, 253, 0);
+            color: black;
+            padding: 8px 15px;
+            border-radius: 5px;
+            font-weight: bold;
+            font-size: 0.9rem;
+        }
 
-# 🏆 Conquistas do GitHub
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">    <img src="https://github-profile-trophy.vercel.app/?username=phillipivictorsanto-sketch&theme=tokyonight&column=7&margin-w=15" alt="GitHub Trophies"/>
-  </a>
-</div>
+        .section-title {
+            border-bottom: 2px solid rgb(17, 253, 0);
+            padding-bottom: 10px;
+            margin-top: 30px;
+        }
 
----
+        .grid-prototipos {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin-top: 20px;
+        }
 
-# 📊 Estatísticas & Métricas de Programação
+        .card {
+            background: rgba(0, 0, 0, 0.4);
+            border: 1px solid rgb(17, 253, 0);
+            padding: 20px;
+            border-radius: 8px;
+            text-align: center;
+            transition: transform 0.3s;
+        }
 
-<div align="center">
-  <!-- Status Geral do Estudante -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phillipivictorsanto-sketch&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  
-  <!-- Linguagens mais utilizadas nos projetos -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phillipivictorsanto-sketch&layout=compact&langs_count=7&theme=tokyonight" alt="Top Langs"/>
-</div>
+        .card:hover {
+            transform: translateY(-5px);
+        }
 
-<br>
+        .btn {
+            display: inline-block;
+            background-color: rgb(255, 0, 0);
+            color: white;
+            text-decoration: none;
+            padding: 8px 16px;
+            border-radius: 4px;
+            margin-top: 15px;
+            font-weight: bold;
+        }
 
-<div align="center">
-  <!-- Resumo de Atividades -->
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=phillipivictorsanto-sketch&theme=github_dark" alt="Summary Stats"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phillipivictorsanto-sketch&theme=github_dark" alt="Repos Language"/>
-</div>
+        .btn:hover {
+            background-color: rgb(200, 0, 0);
+        }
+    </style>
+</head>
+<body>
 
-<div align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phillipivictorsanto-sketch&theme=github_dark" alt="Profile Details"/>
-</div>
+    <header>
+        <h1>Violão é muito bom! Teste no GitHub</h1>
+        <p class="subtitulo">Bem-vindo ao melhor site do século 🚀</p>
+    </header>
 
-### 🔥 Sequência de Contribuições (Commit Streak)
-<div align="center"> 
-  <img src="https://streak-stats.demolab.com?user=phillipivictorsanto-sketch&theme=tokyonight&hide_border=false" alt="GitHub Streak"/> 
-</div>
+    <div class="container">
+        <div class="tags">
+            <span class="tag">📚 Estudante de Programação</span>
+            <span class="tag">🎨 Designer</span>
+            <span class="tag">💻 Front-End</span>
+        </div>
 
----
+        <section>
+            <h2 class="section-title">Sobre Mim</h2>
+            <p>Olá! Sou apaixonado por tecnologia, música (principalmente violão!) e por criar interfaces incríveis. Estou unindo o mundo do design com o desenvolvimento front-end para construir experiências digitais únicas.</p>
+        </section>
 
-# 🌐 Redes Sociais
+        <section>
+            <h2 class="section-title">Meus Protótipos & Projetos</h2>
+            <div class="grid-prototipos">
+                
+                <div class="card">
+                    <h3>Protótipo Violão App</h3>
+                    <p>Design de interface e ideias para um afinador ou cifrador de violão moderno.</p>
+                    <a href="#" class="btn">Ver Projeto</a>
+                </div>
 
-<a href="https://github.com/phillipivictorsanto-sketch" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
-</a>
+                <div class="card">
+                    <h3>Site do Século V1</h3>
+                    <p>A primeira versão deste site incrível feito com HTML e CSS puro.</p>
+                    <a href="#" class="btn">Ver Projeto</a>
+                </div>
 
----
+                <div class="card">
+                    <h3>Portfólio UI</h3>
+                    <p>Conceito visual criado no Figma para o meu futuro portfólio.</p>
+                    <a href="#" class="btn">Ver Projeto</a>
+                </div>
 
-# ✨ Objetivo
+            </div>
+        </section>
+    </div>
 
-Evoluir constantemente como desenvolvedor, aplicando novos conceitos de programação no dia a dia, construindo projetos sólidos para o meu portfólio e colaborando com a comunidade de tecnologia.
-
-### 💻 Perfil Visitantes
-<div align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=phillipivictorsanto-sketch&color=blue&style=for-the-badge" alt="Visitantes"/> 
-</div>
-
----
-
-> ⚡ **Frase Motivacional**
-> “A tecnologia move o mundo.” – Steve Jobs
+</body>
+</html>
