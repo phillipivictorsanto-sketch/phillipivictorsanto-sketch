@@ -27,10 +27,6 @@
             text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
         }
 
-        h2 {
-            color: rgb(255, 230, 0);
-        }
-
         .subtitulo {
             color: rgb(255, 255, 255);
             font-size: 1.2rem;
@@ -38,6 +34,7 @@
             background-color: rgba(0, 0, 0, 0.3);
             padding: 10px 20px;
             border-radius: 20px;
+            display: inline-block;
         }
 
         .container {
@@ -48,6 +45,7 @@
             border-radius: 15px;
             backdrop-filter: blur(10px);
             box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.3);
+            box-sizing: border-box;
         }
 
         .tags {
@@ -68,6 +66,7 @@
         }
 
         .section-title {
+            color: rgb(255, 230, 0);
             border-bottom: 2px solid rgb(17, 253, 0);
             padding-bottom: 10px;
             margin-top: 30px;
@@ -125,7 +124,7 @@
 
         <section>
             <h2 class="section-title">Sobre Mim</h2>
-            <p>Olá! Sou apaixonado por tecnologia, música (principalmente violão!) e por criar interfaces incríveis. Estou unindo o mundo do design com o desenvolvimento front-end para construir experiências digitais únicas.</p>
+            <p>Olá! Sou apaixonado por tecnologia, música (principalmente violão!) e por criar interfaces incríveis. Estou unindo o mundo do design com o desenvolvimento front-end para construir experiências digitais únicas e funcionais.</p>
         </section>
 
         <section>
