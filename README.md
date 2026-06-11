@@ -2,8 +2,6 @@
 
 ## 💰 "Se eu não estilizar nada, o bug de layout é menor." 
 
-> *Estudante de Frontend que economiza linhas de código assim como o Julius economiza dois centavos de dólar.*
-
 ---
 
 ## 🛠️ Sobre Mim
