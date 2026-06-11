@@ -26,16 +26,7 @@ Aqui estão as ferramentas que uso para construir minhas páginas e garantir que
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[SEU_USUARIO_AQUI]&show_icons=true&theme=radial" alt="Estatísticas do GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USUARIO_AQUI]&layout=compact&theme=radial" alt="Linguagens mais usadas" height="150" />
-</p>
-
----
-
 ## 📫 Como me encontrar
 
 * 💼 LinkedIn: [Luis Phillipi Santos de Oliveira](https://www.linkedin.com/in/luis-phillipi-santos-de-oliveira-a7a10027b/)
-* 📧 E-mail: seu.email@provedor.com
+* 📧 E-mail: phillipivictorsanto@gmail.com
